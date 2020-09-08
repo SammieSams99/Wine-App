@@ -1,0 +1,4 @@
+# adding files/ directories we want to ignore in this project
+.env/
+__pycache__/
+.DS_Store
